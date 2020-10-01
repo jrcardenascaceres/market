@@ -1,7 +1,5 @@
 package com.platzi.market.domain;
 
-import java.math.BigDecimal;
-
 public class Product {
     private int productId;
     private String name;
