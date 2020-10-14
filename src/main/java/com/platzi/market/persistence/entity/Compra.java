@@ -35,6 +35,10 @@ public class Compra {
         return idCompra;
     }
 
+    public void setIdCompra(Integer idCompra) {
+        this.idCompra = idCompra;
+    }
+
     public String getIdCliente() {
         return idCliente;
     }
